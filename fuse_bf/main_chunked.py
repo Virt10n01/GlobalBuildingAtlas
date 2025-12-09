@@ -14,7 +14,7 @@ from utils import (
     query_osm_bf,
     query_ms_bf,
     query_google_bf,
-    query_3dglobfp_bf,
+    query_3d16fp_bf,
     get_roi_shapes_and_bounds,
     get_source_shapes_and_bounds,
     get_coarse_intersection_flag,
